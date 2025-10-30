@@ -79,7 +79,7 @@ geniead/
 
 **Generated Copy:**
 
-> ☕ “Sip smarter with our eco-friendly coffee mug — where sustainability meets style.”
+> 💡 Introducing Eco-friendly coffee mug: changing the way the world thinks.
 
 
 

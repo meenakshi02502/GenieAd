@@ -2,7 +2,7 @@
 AdGenie helps users generate engaging marketing content simply by describing their product or idea.
 
 
-# 🪄 AdGenie – Generate Creative Ad Copy Instantly
+# AdGenie – Generate Creative Ad Copy Instantly
 
 AdGenie is a fun and simple web app that helps you generate creative, catchy ad copy for your products or ideas.
 Just type in your product, click **Generate Copy**, and let AdGenie work its magic!
